@@ -1,8 +1,8 @@
 # Set Bot
 
-Automatically clicks sets in the set game on [setwithfriends.com](). Does this by using the pyautogui module to locate set cards, then going through every set card combination to find a set, and using pyautogui to click the set cards. Locating set cards takes around 10-14 seconds on my machine.
+Automatically clicks sets in the set game on [setwithfriends.com](https://setwithfriends.com). Does this by using the pyautogui module to locate set cards, then going through every set card combination to find a set, and using pyautogui to click the set cards. Locating set cards takes around 10-14 seconds on my machine.
 
-View set rules at: [https://setwithfriends.com/help]()
+View set rules at: https://setwithfriends.com/help/
 
 Set card data in form (_number_, _pattern_, _shape_, _color_)
 
@@ -12,7 +12,7 @@ Set card data in form (_number_, _pattern_, _shape_, _color_)
 
 #### How to run:
 1. Make sure you are in the directory with the code
-2. Open [setwithfriends.com]()
+2. Open [setwithfriends.com](https://setwithfriends.com)
 3. Join a game or create your own and wait for it to start or start it
 4. With your mouse hovering over something unimportant, on the setwithfriends.com website, run `python set_bot.py`
 5. To stop the program, go to the terminal window and press ctrl+c.
