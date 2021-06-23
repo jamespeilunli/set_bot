@@ -10,7 +10,7 @@ Set card data in form (_number_, _pattern_, _shape_, _color_)
 
 **Please don't use this program in public games without permission from the person who started the game. This program's intent is not to make people not have fun while playing on setwithfriends** 
 
-#### How to run:
+## How to run:
 1. Make sure you are in the directory with the code
 2. Open [setwithfriends.com](https://setwithfriends.com)
 3. Join a game or create your own and wait for it to start or start it
