@@ -17,3 +17,4 @@ Set card data in form (_number_, _pattern_, _shape_, _color_).
 4. With your mouse hovering over something unimportant, on the setwithfriends.com website, run `python set_bot.py`
 5. To stop the program, go to the terminal window and press ctrl+c
 
+
